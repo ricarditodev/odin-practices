@@ -1,0 +1,19 @@
+.impar {
+  background-color: palevioletred;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#par {
+  color: blue;
+  font-size: 36px;
+}
+
+.number-3 {
+  font-size: 24px;
+}
+
+#par-2 {
+  background-color: chartreuse;
+  font-size: 24px;
+  font-weight: bold;
+}
